@@ -1,4 +1,4 @@
-public class MessageUtil {
+public clas MessageUtil {
   private String message;
 
   public MessageUtil(String message) {
